@@ -1,1 +1,4 @@
 # usefulUtil
+
+UIControl+JSControlEventUtil
+controlEvent 通过对控件的分类扩展，将控制事件通过runtime存储block来执行触发事件命令，从而可通过block来进行对控件的操作
